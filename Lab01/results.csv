@@ -1,0 +1,6 @@
+Query,P@5,R@5,RR
+medical image classification,0.20,1.00,1.00
+transformer language model,0.40,1.00,1.00
+deep learning healthcare,0.60,1.00,0.50
+natural language processing,0.20,1.00,1.00
+"AVERAGE (MRR, Mean P@5, Mean R@5)",0.35,1.00,0.88
